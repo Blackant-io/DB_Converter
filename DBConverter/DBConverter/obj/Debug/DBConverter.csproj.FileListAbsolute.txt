@@ -1,0 +1,10 @@
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\bin\Debug\DBConverter.exe
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\bin\Debug\DBConverter.pdb
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.csprojAssemblyReference.cache
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.frmDBConverter.resources
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.Properties.Resources.resources
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.csproj.GenerateResource.cache
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.exe
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\obj\Debug\DBConverter.pdb
+C:\Users\Crystal\source\repos\DBConverter\DBConverter\bin\Debug\DBConverter.exe.config
